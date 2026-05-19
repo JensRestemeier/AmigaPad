@@ -4,7 +4,7 @@ I made a small PCB, which is mostly for testing and development work. So far I h
 
 ![Photo of a populated PCB](images/pcb.jpg)
 
-I don't know what kind of Ferrite Bead the original Joypad uses, so I just put in a bridge. There is a choice of populating vertical buttons for the shoulder buttons, or plane horizontal on the face. The button
+I don't know what kind of Ferrite Bead the original Joypad uses, so I just put in a bridge. There is a choice of populating vertical buttons for the shoulder buttons, or plain horizontal buttons on the component side. The button
 above the start button has no function in a normal Amiga software.
 
 ![Photo of joystick mode in Amiga Test Kit](images/standard.jpg)
